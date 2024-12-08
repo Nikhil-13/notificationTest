@@ -14,7 +14,10 @@ export default () => {
     try {
       const permissionArray: Permission[] =
         Platform.select({
-          android: [PERMISSIONS.ANDROID.CAMERA],
+          android: [
+            PERMISSIONS.ANDROID.CAMERA,
+            PERMISSIONS.ANDROID.POST_NOTIFICATIONS,
+          ],
           ios: [PERMISSIONS.IOS.CAMERA],
         }) || [];
       const statuses = await requestMultiple(permissionArray);
