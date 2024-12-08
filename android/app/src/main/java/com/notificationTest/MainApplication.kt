@@ -1,4 +1,4 @@
-package com.baseproject
+package com.notificationTest
 
 import android.app.Application
 import com.facebook.react.PackageList

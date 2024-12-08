@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* notficationTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* notficationTestTests.m */; };
+		00E356F31AD99517003FC87E /* notificationTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* notificationTestTests.m */; };
 		04B1D334916A4AB09014F2DA /* DancingScript-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F1BB1EAB1C884F119E7769ED /* DancingScript-Medium.ttf */; };
-		0C80B921A6F3F58F76C31292 /* libPods-notficationTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-notficationTest.a */; };
+		0C80B921A6F3F58F76C31292 /* libPods-notificationTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-notificationTest.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		3602D25B99DA9CA6B3B53E94 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E24E1FF0FD639BA0DF8D7ABE /* PrivacyInfo.xcprivacy */; };
-		7699B88040F8A987B510C191 /* libPods-notficationTest-notficationTestTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-notficationTest-notficationTestTests.a */; };
+		7699B88040F8A987B510C191 /* libPods-notificationTest-notificationTestTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-notificationTest-notificationTestTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		9E1738873B9844538710A3CB /* DancingScript-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E94630D65054457B992715B /* DancingScript-Bold.ttf */; };
 		D8755DB35E054ADDB4E02291 /* PlaywriteGBS-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0ABE89ABC7604E06BC16B6BB /* PlaywriteGBS-Regular.ttf */; };
@@ -28,33 +28,33 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = "notficationTest";
+			remoteInfo = "notificationTest";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* notficationTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "notficationTestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* notificationTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "notificationTestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* notficationTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "notficationTestTests.m"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* notificationTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "notificationTestTests.m"; sourceTree = "<group>"; };
 		0ABE89ABC7604E06BC16B6BB /* PlaywriteGBS-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "PlaywriteGBS-Regular.ttf"; path = "../src/assets/fonts/PlaywriteGBS-Regular.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* notficationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "notficationTest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "notficationTest/AppDelegate.h"; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = "notficationTest/AppDelegate.mm"; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "notficationTest/Images.xcassets"; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "notficationTest/Info.plist"; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "notficationTest/main.m"; sourceTree = "<group>"; };
-		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = notficationTest/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* notificationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "notificationTest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "notificationTest/AppDelegate.h"; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = "notificationTest/AppDelegate.mm"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "notificationTest/Images.xcassets"; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "notificationTest/Info.plist"; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "notificationTest/main.m"; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = notificationTest/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		174F0A0F6DD84EB9BB03C4D9 /* DancingScript-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "DancingScript-Regular.ttf"; path = "../src/assets/fonts/DancingScript-Regular.ttf"; sourceTree = "<group>"; };
-		19F6CBCC0A4E27FBF8BF4A61 /* libPods-notficationTest-notficationTestTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-notficationTest-notficationTestTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B4392A12AC88292D35C810B /* Pods-notficationTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-notficationTest.debug.xcconfig"; path = "Target Support Files/Pods-notficationTest/Pods-notficationTest.debug.xcconfig"; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-notficationTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-notficationTest.release.xcconfig"; path = "Target Support Files/Pods-notficationTest/Pods-notficationTest.release.xcconfig"; sourceTree = "<group>"; };
-		5B7EB9410499542E8C5724F5 /* Pods-notficationTest-notficationTestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-notficationTest-notficationTestTests.debug.xcconfig"; path = "Target Support Files/Pods-notficationTest-notficationTestTests/Pods-notficationTest-notficationTestTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-notficationTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-notficationTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		19F6CBCC0A4E27FBF8BF4A61 /* libPods-notificationTest-notificationTestTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-notificationTest-notificationTestTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B4392A12AC88292D35C810B /* Pods-notificationTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-notificationTest.debug.xcconfig"; path = "Target Support Files/Pods-notificationTest/Pods-notificationTest.debug.xcconfig"; sourceTree = "<group>"; };
+		5709B34CF0A7D63546082F79 /* Pods-notificationTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-notificationTest.release.xcconfig"; path = "Target Support Files/Pods-notificationTest/Pods-notificationTest.release.xcconfig"; sourceTree = "<group>"; };
+		5B7EB9410499542E8C5724F5 /* Pods-notificationTest-notificationTestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-notificationTest-notificationTestTests.debug.xcconfig"; path = "Target Support Files/Pods-notificationTest-notificationTestTests/Pods-notificationTest-notificationTestTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5DCACB8F33CDC322A6C60F78 /* libPods-notificationTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-notificationTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E94630D65054457B992715B /* DancingScript-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "DancingScript-Bold.ttf"; path = "../src/assets/fonts/DancingScript-Bold.ttf"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "notficationTest/LaunchScreen.storyboard"; sourceTree = "<group>"; };
-		89C6BE57DB24E9ADA2F236DE /* Pods-notficationTest-notficationTestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-notficationTest-notficationTestTests.release.xcconfig"; path = "Target Support Files/Pods-notficationTest-notficationTestTests/Pods-notficationTest-notficationTestTests.release.xcconfig"; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "notificationTest/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		89C6BE57DB24E9ADA2F236DE /* Pods-notificationTest-notificationTestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-notificationTest-notificationTestTests.release.xcconfig"; path = "Target Support Files/Pods-notificationTest-notificationTestTests/Pods-notificationTest-notificationTestTests.release.xcconfig"; sourceTree = "<group>"; };
 		D32DAFEE31E64DF0A6EE1659 /* PlaywriteGBS-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "PlaywriteGBS-Light.ttf"; path = "../src/assets/fonts/PlaywriteGBS-Light.ttf"; sourceTree = "<group>"; };
-		E24E1FF0FD639BA0DF8D7ABE /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = notficationTest/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		E24E1FF0FD639BA0DF8D7ABE /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = notificationTest/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F1BB1EAB1C884F119E7769ED /* DancingScript-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "DancingScript-Medium.ttf"; path = "../src/assets/fonts/DancingScript-Medium.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,7 +64,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7699B88040F8A987B510C191 /* libPods-notficationTest-notficationTestTests.a in Frameworks */,
+				7699B88040F8A987B510C191 /* libPods-notificationTest-notificationTestTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,20 +72,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-notficationTest.a in Frameworks */,
+				0C80B921A6F3F58F76C31292 /* libPods-notificationTest.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* notficationTestTests */ = {
+		00E356EF1AD99517003FC87E /* notificationTestTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* notficationTestTests.m */,
+				00E356F21AD99517003FC87E /* notificationTestTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = "notficationTestTests";
+			path = "notificationTestTests";
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -96,7 +96,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* notficationTest */ = {
+		13B07FAE1A68108700A75B9A /* notificationTest */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -108,15 +108,15 @@
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
 				E24E1FF0FD639BA0DF8D7ABE /* PrivacyInfo.xcprivacy */,
 			);
-			name = "notficationTest";
+			name = "notificationTest";
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-notficationTest.a */,
-				19F6CBCC0A4E27FBF8BF4A61 /* libPods-notficationTest-notficationTestTests.a */,
+				5DCACB8F33CDC322A6C60F78 /* libPods-notificationTest.a */,
+				19F6CBCC0A4E27FBF8BF4A61 /* libPods-notificationTest-notificationTestTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -143,9 +143,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* notficationTest */,
+				13B07FAE1A68108700A75B9A /* notificationTest */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* notficationTestTests */,
+				00E356EF1AD99517003FC87E /* notificationTestTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
@@ -159,8 +159,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* notficationTest.app */,
-				00E356EE1AD99517003FC87E /* notficationTestTests.xctest */,
+				13B07F961A680F5B00A75B9A /* notificationTest.app */,
+				00E356EE1AD99517003FC87E /* notificationTestTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -168,10 +168,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-notficationTest.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-notficationTest.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-notficationTest-notficationTestTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-notficationTest-notficationTestTests.release.xcconfig */,
+				3B4392A12AC88292D35C810B /* Pods-notificationTest.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-notificationTest.release.xcconfig */,
+				5B7EB9410499542E8C5724F5 /* Pods-notificationTest-notificationTestTests.debug.xcconfig */,
+				89C6BE57DB24E9ADA2F236DE /* Pods-notificationTest-notificationTestTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -179,9 +179,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* notficationTestTests */ = {
+		00E356ED1AD99517003FC87E /* notificationTestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "notficationTestTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "notificationTestTests" */;
 			buildPhases = (
 				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -195,14 +195,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = "notficationTestTests";
-			productname = "notficationTestTests";
-			productReference = 00E356EE1AD99517003FC87E /* notficationTestTests.xctest */;
+			name = "notificationTestTests";
+			productname = "notificationTestTests";
+			productReference = 00E356EE1AD99517003FC87E /* notificationTestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* notficationTest */ = {
+		13B07F861A680F5B00A75B9A /* notificationTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "notficationTest" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "notificationTest" */;
 			buildPhases = (
 				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
@@ -216,9 +216,9 @@
 			);
 			dependencies = (
 			);
-			name = "notficationTest";
-			productName = "notficationTest";
-			productReference = 13B07F961A680F5B00A75B9A /* notficationTest.app */;
+			name = "notificationTest";
+			productName = "notificationTest";
+			productReference = 13B07F961A680F5B00A75B9A /* notificationTest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -238,7 +238,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "notficationTest" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "notificationTest" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -251,8 +251,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* notficationTest */,
-				00E356ED1AD99517003FC87E /* notficationTestTests */,
+				13B07F861A680F5B00A75B9A /* notificationTest */,
+				00E356ED1AD99517003FC87E /* notificationTestTests */,
 			);
 		};
 /* End PBXProject section */
@@ -305,15 +305,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-notficationTest/Pods-notficationTest-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-notificationTest/Pods-notificationTest-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-notficationTest/Pods-notficationTest-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-notificationTest/Pods-notificationTest-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-notficationTest/Pods-notficationTest-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-notificationTest/Pods-notificationTest-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
@@ -331,7 +331,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-notficationTest-notficationTestTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-notificationTest-notificationTestTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -353,7 +353,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-notficationTest-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-notificationTest-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -366,15 +366,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-notficationTest-notficationTestTests/Pods-notficationTest-notficationTestTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-notificationTest-notificationTestTests/Pods-notificationTest-notificationTestTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-notficationTest-notficationTestTests/Pods-notficationTest-notficationTestTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-notificationTest-notificationTestTests/Pods-notificationTest-notificationTestTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-notficationTest-notficationTestTests/Pods-notficationTest-notficationTestTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-notificationTest-notificationTestTests/Pods-notificationTest-notificationTestTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
@@ -383,15 +383,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-notficationTest/Pods-notficationTest-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-notificationTest/Pods-notificationTest-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-notficationTest/Pods-notficationTest-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-notificationTest/Pods-notificationTest-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-notficationTest/Pods-notficationTest-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-notificationTest/Pods-notificationTest-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
@@ -400,15 +400,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-notficationTest-notficationTestTests/Pods-notficationTest-notficationTestTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-notificationTest-notificationTestTests/Pods-notificationTest-notificationTestTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-notficationTest-notficationTestTests/Pods-notficationTest-notficationTestTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-notificationTest-notificationTestTests/Pods-notificationTest-notificationTestTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-notficationTest-notficationTestTests/Pods-notficationTest-notficationTestTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-notificationTest-notificationTestTests/Pods-notificationTest-notificationTestTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -418,7 +418,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* notficationTestTests.m in Sources */,
+				00E356F31AD99517003FC87E /* notificationTestTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,7 +436,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* notficationTest */;
+			target = 13B07F861A680F5B00A75B9A /* notificationTest */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -444,14 +444,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-notficationTest-notficationTestTests.debug.xcconfig */;
+			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-notificationTest-notificationTestTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "notficationTestTests/Info.plist";
+				INFOPLIST_FILE = "notificationTestTests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -463,19 +463,19 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.notificationTest";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/notficationTest.app/notficationTest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/notificationTest.app/notificationTest";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-notficationTest-notficationTestTests.release.xcconfig */;
+			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-notificationTest-notificationTestTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = "notficationTestTests/Info.plist";
+				INFOPLIST_FILE = "notificationTestTests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -487,22 +487,22 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.notificationTest";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/notficationTest.app/notficationTest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/notificationTest.app/notificationTest";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-notficationTest.debug.xcconfig */;
+			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-notificationTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = "notficationTest/Info.plist";
-             INFOPLIST_KEY_CFBundleDisplayName = "notficationTest";
+				INFOPLIST_FILE = "notificationTest/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "notificationTest";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -513,8 +513,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.notficationTest;
-				PRODUCT_NAME = "notficationTest";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.notificationTest";
+				PRODUCT_NAME = "notificationTest";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -523,13 +523,13 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-notficationTest.release.xcconfig */;
+			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-notificationTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = "notficationTest/Info.plist";
-             INFOPLIST_KEY_CFBundleDisplayName = "notficationTest";
+				INFOPLIST_FILE = "notificationTest/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "notificationTest";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -540,8 +540,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.notficationTest;
-				PRODUCT_NAME = "notficationTest";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.notificationTest";
+				PRODUCT_NAME = "notificationTest";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -704,7 +704,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "notficationTestTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "notificationTestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -713,7 +713,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "notficationTest" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "notificationTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -722,7 +722,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "notficationTest" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "notificationTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

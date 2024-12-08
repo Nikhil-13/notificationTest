@@ -43,7 +43,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'notficationTest' do
+target 'notificationTest' do
   config = use_native_modules!
 
   # Env variables config using react-native-config 
@@ -55,7 +55,7 @@ target 'notficationTest' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'notficationTestTests' do
+  target 'notificationTestTests' do
     inherit! :complete
     # Pods for testing
   end
